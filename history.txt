@@ -1,7 +1,7 @@
-esto es una especie de prueba
+est es una especie de prueba
 
-con una history 
+con una historia 
 
-jeison yamarte 
+jeison yamarte jeison
 
-vuelvo a agragar lineas de comando 
+agrego linea pero probando el control de versiones 
