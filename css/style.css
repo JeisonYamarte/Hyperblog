@@ -8,6 +8,7 @@ p{
     font-family: 'Times New Roman', Times, serif;}
 
 #container{
+    padding: 10px;
     margin: 0 auto;
     width: 50%;
     height: 500px;
@@ -18,4 +19,16 @@ p{
     text-align: center;
     color: black;
     font-size: 1.5rem;
+}
+
+#header{
+    font-size: 1.5rem;
+    width: 90%;
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    height: 100px;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-left: 10px;
 }
