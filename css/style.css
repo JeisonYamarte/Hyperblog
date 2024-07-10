@@ -5,7 +5,8 @@ h1{
 p{
     height: auto;
     text-align: center;
-    font-family: 'Arial', Times, serif;}
+    font-family: 'Arial', Times, serif;
+}
 
 #container{
     padding: 10px;
