@@ -25,11 +25,18 @@ p{
 #header{
     font-size: 1.5rem;
     width: 90%;
-    background-color: blueviolet;
+    background-color: rebeccapurple;
     color: white;
     border-radius: 5px;
-    height: auto;
+    height: 100px;
     margin: 0 auto;
     padding-top: 5px;
     padding-left: 10px;
+
+}
+
+h2{
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
 }
