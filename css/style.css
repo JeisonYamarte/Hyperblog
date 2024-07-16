@@ -58,3 +58,13 @@ img{
     height: 50px;
     width: 50px;
 }
+
+footer{
+    font-size: 24px;
+    background-color: #918888;
+    color: aliceblue;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    height: 50px;
+}
