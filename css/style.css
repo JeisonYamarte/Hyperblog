@@ -54,9 +54,14 @@ h2{
     
 }
 
-img{
+#logo{
     height: 50px;
     width: 50px;
+}
+
+#postimg{
+    height: 100px;
+    width: 100px;
 }
 
 footer{
